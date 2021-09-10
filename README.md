@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Larissa Moro
 
 - 🔭 Hoje eu trabalho como desenvolvedora Web FrontEnd
-- 🌱 Estudando React
+- 🌱 Em constante evolução
 - 📫 Email: lari.moro20@gmail.com
 - 😄 Pronomes: ela/dela
  <div>
