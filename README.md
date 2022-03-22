@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa Moro
+### Olá! Meu nome é Larissa
 
 - 🔭 Hoje eu trabalho como desenvolvedora Web FrontEnd
 - 🌱 Em constante evolução
