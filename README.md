@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho como desenvolvedora Web FrontEnd
 - 🌱 Em constante evolução
-- 📫 Email: lari.moro20@gmail.com
 - 😄 Pronomes: ela/dela
  <div>
   <a href="https://github.com/larimoro20">
