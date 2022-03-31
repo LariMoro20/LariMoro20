@@ -1,8 +1,5 @@
-### Olá! Meu nome é Larissa
+### Olá! Meu nome é Larissa Santos e sou desenvolvedora Web FrontEnd
 
-- 🔭 Hoje eu trabalho como desenvolvedora Web FrontEnd
-- 🌱 Em constante evolução
-- 😄 Pronomes: ela/dela
  <div>
   <a href="https://github.com/larimoro20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larimoro20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
