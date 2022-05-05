@@ -1,4 +1,4 @@
-### Olá! Meu nome é Larissa Santos e sou desenvolvedora Web FrontEnd
+### Olá! Meu nome é Larissa Santos e sou Desenvolvedora Web
 
  <div>
   <a href="https://github.com/larimoro20">
