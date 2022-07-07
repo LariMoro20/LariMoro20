@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Larissa Santos e sou Desenvolvedora Web
 
-* :books: Técnica em informatica - IFRS Campus Osório (Técnico)
 * :mortar_board: Analista e Desenvolvedora de Sistemas - IFRS Campus Osório (Graduação)
+* :books: Técnica em informatica - IFRS Campus Osório (Técnico)
 * :computer: Site e portifólio: https://larissa-santos.vercel.app/
 * :briefcase: Desenvolvedora FrontEnd na Datahub Analytics
 
