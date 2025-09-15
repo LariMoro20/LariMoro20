@@ -42,14 +42,13 @@
 
  </div><hr>
 
-## 🛠️ Ferramentas & Outros
+### 🛠️ Ferramentas & Outros
  <div style="display: inline_block">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Claude.ai](https://img.shields.io/badge/Claude.ai-%230A0A0A.svg?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
-
 
  </div><hr>
 
