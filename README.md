@@ -1,4 +1,4 @@
-## Olá! Meu nome é Larissa Santos e sou Desenvolvedora Web
+## Olá! Meu nome é Larissa e sou Desenvolvedora Web
 
 * :mortar_board: Analista e Desenvolvedora de Sistemas - IFRS Campus Osório (Graduação)
 * :books: Técnica em informatica - IFRS Campus Osório (Técnico)
