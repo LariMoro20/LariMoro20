@@ -15,8 +15,7 @@ Meu nome é Larissa, sou desenvolvedora web com quase 10 anos de experiência em
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Quasar](https://img.shields.io/badge/Quasar-%2312B5EA.svg?style=for-the-badge&logo=quasar&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Pinia](https://img.shields.io/badge/Pinia-%23FFD859.svg?style=for-the-badge&logo=pinia&logoColor=black)&nbsp;
 ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
