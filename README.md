@@ -1,4 +1,5 @@
-## Olá! Meu nome é Larissa e sou Desenvolvedora Web
+## Olá! Bem vinda(o)
+Meu nome é Larissa, sou desenvolvedora web com quase 10 anos de experiência em desenvolvimento de software e graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal – Campus Osório.
 
 * :mortar_board: Analista e Desenvolvedora de Sistemas - IFRS Campus Osório (Graduação)
 * :books: Técnica em informatica - IFRS Campus Osório (Técnico)
