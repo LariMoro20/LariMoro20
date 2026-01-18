@@ -158,6 +158,6 @@ Desenvolvimento de aplicações web complexas utilizando Vue.js e Quasar Framewo
 
 <div align="center">
   
-⭐️ From [larimoro20](https://github.com/larimoro20) | Feito com 💚 usando Vue.js
+⭐️ From [larimoro20](https://github.com/larimoro20) | Feito com 💚
 
 </div>
