@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 👋 Olá! Eu sou a Larissa Santos
 
 ### Desenvolvedora Frontend | Especialista em Vue.js & Quasar Framework
@@ -81,13 +81,25 @@ Desenvolvedora web com **quase 10 anos de experiência** em desenvolvimento de s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div>
-  <a href="https://github.com/larimoro20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larimoro20&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larimoro20&layout=compact&langs_count=7&theme=dark"/>
-</div><br>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=larimoro20&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larimoro20&theme=vue)
+
+</div>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=larimoro20&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -105,11 +117,9 @@ Desenvolvedora web com **quase 10 anos de experiência** em desenvolvimento de s
 ## 🏆 Experiência & Destaques
 
 ### 💼 Datahub Analytics
-
 **Desenvolvedora Frontend** | Atual
 
 Desenvolvimento de aplicações web complexas utilizando Vue.js e Quasar Framework, focando em:
-
 - 🎨 Criação de componentes reutilizáveis e escaláveis com Vue 3 Composition API
 - 📊 Integração com APIs GraphQL usando Apollo Client
 - 🎯 Implementação de dashboards interativos com ApexCharts
@@ -118,7 +128,6 @@ Desenvolvimento de aplicações web complexas utilizando Vue.js e Quasar Framewo
 - 🗃️ Gerenciamento de estado com Pinia
 
 ### 🎓 Formação
-
 - **Análise e Desenvolvimento de Sistemas** - IFRS Campus Osório (Graduação)
 - **Técnica em Informática** - IFRS Campus Osório (Técnico)
 
@@ -128,16 +137,16 @@ Desenvolvimento de aplicações web complexas utilizando Vue.js e Quasar Framewo
 
 <div align="center">
 
-| Categoria                 | Especialização                     |
-| ------------------------- | ---------------------------------- |
-| 🎨 **Frontend Framework** | Vue.js 3 • Quasar Framework        |
-| 💅 **Styling**            | Tailwind CSS • DaisyUI • Bootstrap |
-| 🔄 **State Management**   | Pinia                              |
-| 📊 **Data Visualization** | ApexCharts                         |
-| 🔌 **API Integration**    | Apollo Client • GraphQL • REST     |
-| 🧪 **Testing**            | Cypress                            |
-| ⚙️ **Backend**            | Node.js • PHP • Laravel            |
-| 🗄️ **Database**           | Supabase • MongoDB • SQL           |
+| Categoria | Especialização |
+|-----------|----------------|
+| 🎨 **Frontend Framework** | Vue.js 3 • Quasar Framework |
+| 💅 **Styling** | Tailwind CSS • DaisyUI • Bootstrap |
+| 🔄 **State Management** | Pinia |
+| 📊 **Data Visualization** | ApexCharts |
+| 🔌 **API Integration** | Apollo Client • GraphQL • REST |
+| 🧪 **Testing** | Cypress |
+| ⚙️ **Backend** | Node.js • PHP • Laravel |
+| 🗄️ **Database** | Supabase • MongoDB • SQL |
 
 </div>
 
@@ -153,14 +162,14 @@ Desenvolvimento de aplicações web complexas utilizando Vue.js e Quasar Framewo
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larim_santos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://larissa-santos.vercel.app/)
 
-💬 _Vamos conversar sobre seu próximo projeto!_
+💬 *Vamos conversar sobre seu próximo projeto!*
 
 </div>
 
 ---
 
 <div align="center">
-
+  
 ⭐️ From [larimoro20](https://github.com/larimoro20) | Feito com 💚 usando Vue.js
 
 </div>
