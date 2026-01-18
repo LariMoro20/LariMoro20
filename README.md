@@ -84,20 +84,8 @@ Desenvolvedora web com **quase 10 anos de experiência** em desenvolvimento de s
 ## 📊 GitHub Activity
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=larimoro20&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larimoro20&theme=vue)
-
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=larimoro20&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
